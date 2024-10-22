@@ -74,3 +74,50 @@ png:
 
 ![простой алгоритм](https://github-production-user-asset-6210df.s3.amazonaws.com/67642784/376881011-98277d2e-4dbc-48a9-b64c-8e7e95930f28.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241022T170311Z&X-Amz-Expires=300&X-Amz-Signature=c67365c2aabcfb60500a8d40c944adebb5a511aa32c4bc31cd83dd6e5fd3c635&X-Amz-SignedHeaders=host
 
+**Задание 10**
+
+svg формат отображается в браузере без потери качества:
+
+
+![image](https://github.com/user-attachments/assets/5e059f34-cbac-4670-a404-3a3f2bd0fbbf)
+
+в png формате:
+
+![mermaid-diagram-2024-10-16-091641](https://github.com/user-attachments/assets/160f2f1c-013c-4e30-a6f2-f385a806b331)
+
+**Задание 11**
+
+![image](https://github.com/user-attachments/assets/e776c22c-888f-46d0-97bd-444ce85e0646)
+
+**Задание 12**
+
+Файл задание 14.md
+
+**Задание 13**
+
+![image](https://github.com/user-attachments/assets/85158102-1607-4df6-9fbf-826fd2f32ca7)
+
+**Задание 14**
+
+Multiline String (многострочная строка) — это строка текста, занимающая несколько строк кода. В Python многострочные строки создаются с помощью тройных кавычек (''' или """).
+Base64 — это метод кодирования, который преобразует бинарные данные в текстовый формат с использованием 64 символов ASCII. Это позволяет безопасно передавать данные через текстовые каналы, такие как электронная почта и JSON.
+Jupyter Notebook — веб-приложение для создания и обмена документами с живым кодом, уравнениями, визуализациями и текстом. Поддерживает множество языков программирования, включая Python.
+Pyplot — модуль библиотеки Matplotlib для Python, который предоставляет функции для создания графиков и визуализации данных, упрощая процесс построения графиков.
+String (строка) — последовательность символов, используемая для представления текста в программировании.
+IPython — интерактивная оболочка для Python, предлагающая расширенные функции по сравнению со стандартной оболочкой, включая поддержку магических команд и улучшенное отображение данных.
+UTF-8 — кодировка символов, представляющая любой символ в Unicode и являющаяся стандартом для веб-контента. Она совместима с ASCII и поддерживает множество языков.
+ASCII (American Standard Code for Information Interchange) — кодировка символов, использующая 7 бит для представления текста на компьютерах. Она включает латинские буквы, цифры и специальные символы.
+Matplotlib — библиотека для создания статических, анимационных и интерактивных визуализаций в Python, широко используемая в научных и аналитических приложениях.
+URL (Uniform Resource Locator) — адрес ресурса в интернете, указывающий его местоположение и способ получения.
+
+**Задание 15**
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/67642784/376889694-211e9d05-6fa7-47ab-b00e-e20447a9492e.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241022T172023Z&X-Amz-Expires=300&X-Amz-Signature=833aa0f82d541f6742ac030e1a11a531fab37516a1e4fc27af73b7e7f060a055&X-Amz-SignedHeaders=host)
+
+**Задание 16**
+
+код программы:
+
+![image](https://github.com/user-attachments/assets/8a85f6ab-a66a-4ef0-bd76-b73dfa769af1)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/67642784/376894677-9132bea4-16ce-4be1-9905-8c81cac141d4.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241022%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241022T172045Z&X-Amz-Expires=300&X-Amz-Signature=6763ee9ab52d357b8134f0ee1df61e0dbcb2d66e76bac99abe7a8963b4781db0&X-Amz-SignedHeaders=host)
